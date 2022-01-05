@@ -1,5 +1,15 @@
-# AngularDashboardCodeAcademia
+# Angular Dashboard CodeAcademia
 
+### Projeto feito junto a orientação deste [Youtuber](https://www.youtube.com/watch?v=FP7Hs8lTy1k&t=1881s&ab_channel=CodeAcademia)
+
+Tecnologias utilizadas: 
+- Angular
+- Nodejs
+- Bootstrap
+- Material Angular
+- Flex Layouts
+
+---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
